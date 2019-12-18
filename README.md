@@ -1,2 +1,4 @@
 # Java8Learning
-Simple project to use Git repository to learn and practive Java code
+Project repository to learn Java 8 and practice programs at one place.
+
+Each programs to be uploaded into separate class package
