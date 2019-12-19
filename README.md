@@ -2,3 +2,5 @@
 Project repository to learn Java 8 and practice programs at one place.
 
 Each programs to be uploaded into separate class package
+
+TODO: Still need to understand the GIT hub working, to complete the reading material and make notes
